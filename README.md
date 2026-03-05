@@ -1,6 +1,6 @@
 # Kernel Tinkering
 
-## Setting up QEMU dev environment
+## Setting up the QEMU dev environment
 
 1) Create a qemu image to act as the volume for our development:
 
